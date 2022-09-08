@@ -10,7 +10,7 @@ Create a table to organize UFO data that is stored as a Javascript array, or lis
 ### APPROACH
 First, build a table using data stored in a JavaScript array, then create filters to make this table fully dynamic, that is the table should react to user input. Next, place the table into an HTML file for easy viewing. Finally, customized the webpage using Bootstrap, and equip the table with several fully functional filters that allows users to interact with the visualizations.
 
-* Challenge
+### Challenge
 Additionally, include five filters in the table (Date, City, State, Country, Shape) using Javascript functions. Update and deploy  forEach (for loop) to loop through the filters and update them with user input. Update and populate the dynamic filters and table using JavaScript and HTML.
 
 ### RESULTS
