@@ -15,13 +15,13 @@ Additionally, include five filters in the table (Date, City, State, Country, Sha
 
 ### RESULTS
 * HTML Page
-<img align="center" width="650" src="/pics/UFO.png"><br/><br/>
+<br><img align="center" width="650" src="/pics/UFO.png"><br/><br/>
 
 * Table Overview
-<img align="center" width="650" src="/pics/ufo1.png"><br/><br/>
+<br><img align="center" width="650" src="/pics/ufo1.png"><br/><br/>
 
 * Table with Filters
-<img align="center" width="650" src="/pics/ufo2.png"><br/><br/>
+<br>c cd <img align="center" width="650" src="/pics/ufo2.png"><br/><br/>
 
 ### THINGS LEARNED
 * The strengths and weaknesses of JavaScript “standard” and JavaScript version ES6+.
