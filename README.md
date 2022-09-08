@@ -8,7 +8,10 @@ Then will add filters to the table to let users refine their search on more than
 Create a table to organize UFO data that is stored as a Javascript array, or list. This table should have the ability to filter data based on certain criteria, using the Javascript language.
 
 ### APPROACH
-First, build a table using data stored in a JavaScript array, then create filters to make this table fully dynamic, that is the table should react to user input. Next, place the table into an HTML file for easy viewing. Finally, customized the webpage using Bootstrap, and equip the table with several fully functional filters that allows users to interact with the visualizations.
+1. Build a table using data stored in a JavaScript array
+2. Create filters to make this table fully dynamic, that is the table should react to user input.
+3. Place the table into an HTML file for easy viewing. 
+4. Customized the webpage using Bootstrap, and equip the table with several fully functional filters that allows users to interact with the visualizations.
 
 ### Challenge
 Additionally, include five filters in the table (Date, City, State, Country, Shape) using Javascript functions. Update and deploy  forEach (for loop) to loop through the filters and update them with user input. Update and populate the dynamic filters and table using JavaScript and HTML.
