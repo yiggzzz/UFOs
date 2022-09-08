@@ -14,7 +14,14 @@ First, build a table using data stored in a JavaScript array, then create filter
 Additionally, include five filters in the table (Date, City, State, Country, Shape) using Javascript functions. Update and deploy  forEach (for loop) to loop through the filters and update them with user input. Update and populate the dynamic filters and table using JavaScript and HTML.
 
 ### RESULTS
+* HTML Page
+<img align="center" width="650" src="/pics/UFO.png"><br/><br/>
 
+* Table Overview
+<img align="center" width="650" src="/pics/ufo1.png"><br/><br/>
+
+* Table with Filters
+<img align="center" width="650" src="/pics/ufo2.png"><br/><br/>
 
 ### THINGS LEARNED
 * The strengths and weaknesses of JavaScript “standard” and JavaScript version ES6+.
