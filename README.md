@@ -1,13 +1,13 @@
 # UFOs
 
-## DESCRIPTION
+## Description
 Applying javascript to data analytics and visualization. Specifically, the focus is on building a dynamic webpage, one that accepts user inputs and adjust accordingly. In more concrete terms we build a table to hold and neatly display the data we want to work with. 
 Then will add filters to the table to let users refine their search on more than one level.
 
 ### Challenge Overview
 Create a table to organize UFO data that is stored as a Javascript array, or list. This table should have the ability to filter data based on certain criteria, using the Javascript language.
 
-### APPROACH
+### Approach
 1. Build a table using data stored in a JavaScript array
 2. Create filters to make this table fully dynamic, that is the table should react to user input.
 3. Place the table into an HTML file for easy viewing. 
@@ -17,7 +17,7 @@ Create a table to organize UFO data that is stored as a Javascript array, or lis
 ### Challenge
 Additionally, include five filters in the table (Date, City, State, Country, Shape) using Javascript functions. Update and deploy  forEach (for loop) to loop through the filters and update them with user input. Update and populate the dynamic filters and table using JavaScript and HTML.
 
-### RESULTS
+### Results
 * HTML Page
 <br><br><img align="center" width="650" src="/pics/UFO.png"><br/><br/>
 
@@ -27,7 +27,7 @@ Additionally, include five filters in the table (Date, City, State, Country, Sha
 * Table with Filters
 <br><br><img align="center" width="650" src="/pics/ufo2.png"><br/><br/>
 
-### THINGS LEARNED
+### Things I Learned
 * The strengths and weaknesses of JavaScript “standard” and JavaScript version ES6+.
 * JavaScript syntax and ideal use cases.
 * Building and deploying JavaScript functions, including built-in functions.
@@ -35,8 +35,8 @@ Additionally, include five filters in the table (Date, City, State, Country, Sha
 * Building and deploying forEach (JavaScript for loop).
 * Creating, populating, and dynamically filtering a table using JavaScript and HTML.
 
-### SOFTWARE/TOOLS
+### Software/Tools
 Javascript, Basic HTML, CSS, Chrome DevTools, Bootstrap
 
-### RECOMMENDATION FOR FURTHER DEVELOPMENT 
+### Recommendation for Future Development 
 Strategically planned non-intrusive pop-ups that could help educate and take readers/users to the next step of their search.
